@@ -1,7 +1,7 @@
 [submodule "themes/gallery"]
 	path = themes/gallery
 	url = https://github.com/nicokaiser/hugo-theme-gallery.git
-[submodule "themes/gallery"]
+[submodule "themes/hugo-starter-netlify-cms"]
 	path = themes/hugo-starter-netlify-cms
 	url = https://github.com/ericmurphyxyz/hugo-starter-netlify-cms.git
 [submodule "themes/blowfish"]

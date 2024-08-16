@@ -1,7 +1,7 @@
 baseURL = 'https://kombiz.org/'
 languageCode = 'en-us'
 title = 'Fitness and Wellness Blog'
-theme = 'hugo-starter-netlify-cms'
+theme = 'gallery'
 
 
 [menu]

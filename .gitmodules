@@ -4,3 +4,6 @@
 [submodule "themes/gallery"]
 	path = themes/hugo-starter-netlify-cms
 	url = https://github.com/ericmurphyxyz/hugo-starter-netlify-cms.git
+[submodule "themes/blowfish"]
+        path = themes/blowfish
+        url = https://github.com/nunocoracao/blowfish.git

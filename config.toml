@@ -2,7 +2,7 @@ baseURL = 'https://kombiz.org/'
 languageCode = 'en-us'
 title = 'Fitness and Wellness Blog'
 theme = 'gallery'
-timeout  = 10m
+timeout  = '10m'
 
 [menu]
   [[menu.main]]

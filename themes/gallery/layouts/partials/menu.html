@@ -2,7 +2,6 @@
   <menu class="hidden" id="menu">
     {{ range . }}
       <li itemscope itemtype="http://www.schema.org/SiteNavigationElement">
-<!--        <a {{ if or (page.IsMenuCurrent .Menu .) (page.HasMenuCurrent .Menu .) }}aria-current="page"{{ end }} href="{{ .URL }}" itemprop="url"> -->
           <span itemprop="name">{{ .Name }}</span>
         </a>
       </li>
